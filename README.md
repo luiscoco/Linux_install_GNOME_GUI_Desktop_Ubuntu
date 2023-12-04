@@ -1,4 +1,6 @@
-# Linux_install_GUI_Desktop_Ubuntu
+# Linux_install_GNOME_GUI_Desktop_Ubuntu
+
+https://www.youtube.com/watch?v=afpdn636NE0
 
 1. Create an Ubuntu server Linux VM in Azure
 
