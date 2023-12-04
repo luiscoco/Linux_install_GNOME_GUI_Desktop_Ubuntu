@@ -32,3 +32,15 @@ Set the VM username
 
 Press the connect button
 
+5. Inside GNOME GUI Desktop
+
+Run these commands:
+
+```
+sudo apt install gnome-tweaks -y
+
+sudo apt install gnome-shell-extensions
+```
+
+https://www.youtube.com/watch?v=afpdn636NE0
+
