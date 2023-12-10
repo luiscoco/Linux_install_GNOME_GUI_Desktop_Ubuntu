@@ -58,6 +58,18 @@ Finally we launch the instance
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/55973196-5fb7-4c83-93c3-0d20e87ae549)
 
+We navigate to the instance clicking on the VN Id
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/90470a7b-7d61-46b0-90d6-a4ef44062bdb)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/1f29a537-302c-4c6f-849d-42cdab8003e4)
+
+We select the instance and we connect to it
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/c30a5190-b16e-41b8-8708-adf163402c93)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7543452f-7252-4efd-937f-21849493473a)
+
 
 ## 2. Open RDP Remote Desktop Port 3389
 
