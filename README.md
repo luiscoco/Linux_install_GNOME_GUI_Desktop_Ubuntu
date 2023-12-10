@@ -34,7 +34,19 @@ We generate a Key Pair for accessing with SSH to the VM
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/05a2d877-a1b7-4d87-aa3c-27eba0cc995b)
 
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/09e92374-09e1-4dfd-85f4-cd6c7e7c97ae)
 
+We place the key pair private file *.pem in the user ssh path "C:/Users/luisc/.ssh/"
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/823eae35-af08-4c4d-b025-59a46b636d4c)
+
+We edit the Network Setting and we add a new inbound rule to access into the VM from Remote Desktop Protocol RDP in port 3389
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/cf99ccce-9272-4d8e-bafe-62ad85896e82)
+
+We configure the storage to 30 Gb
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/a4072774-4b7c-4808-88b5-d427143248e0)
 
 
 ## 2. Open RDP Remote Desktop Port 3389
