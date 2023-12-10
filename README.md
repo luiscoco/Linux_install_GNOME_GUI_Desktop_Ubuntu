@@ -60,15 +60,13 @@ Finally we launch the instance
 
 We navigate to the instance clicking on the VN Id
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/90470a7b-7d61-46b0-90d6-a4ef44062bdb)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/26f52bb9-3f5d-43f4-827b-7d99ba0a1c54)
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/1f29a537-302c-4c6f-849d-42cdab8003e4)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/495637f1-cc73-4e4b-9054-201cdf262b14)
 
 We select the instance and we connect to it
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/c30a5190-b16e-41b8-8708-adf163402c93)
-
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7543452f-7252-4efd-937f-21849493473a)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/c4e7c9dc-0715-4ca8-a549-c4d5f7ec8ac0)
 
 We navigate to the **SSH tab**
 
