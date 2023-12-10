@@ -1,4 +1,4 @@
-# Linux_install_GNOME_GUI_Desktop_Ubuntu
+# How to install Linux GNOME GUI Desktop in a virtual machine AWS EC2
 
 https://posintech.com/give-your-linux-desktop-a-clean-look/
 
