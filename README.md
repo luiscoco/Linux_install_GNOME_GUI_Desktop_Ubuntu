@@ -80,7 +80,9 @@ We open the command prompt and we paste the connection string taking into accoun
 
 ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ubuntu@ec2-13-39-163-28.eu-west-3.compute.amazonaws.com
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/648a18d9-5c77-4d35-b6e5-1228cf0b628c)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/f539d0f8-72ce-47a4-bf8d-6e275ab36643)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/5405b3d4-8d09-4b27-b9ff-944773d226fa)
 
 ## 2. Then run these commands in the Linux VM in order to setup the XRDP and GENOME GUI Desktop
 
