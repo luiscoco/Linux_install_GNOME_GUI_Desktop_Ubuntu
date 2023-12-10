@@ -28,6 +28,11 @@ We select the VM immage
 
 We select the VM type
 
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/08dd1c97-a58b-4d3e-9514-c0e1b82f4eab)
+
+We generate a Key Pair for accessing with SSH to the VM
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/05a2d877-a1b7-4d87-aa3c-27eba0cc995b)
 
 
 
