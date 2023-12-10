@@ -72,15 +72,15 @@ We select the instance and we connect to it
 
 We navigate to the **SSH tab**
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/9620fef7-330e-4b50-9dd7-7a3a347ff930)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/9c9c64da-7dcc-4eac-a143-6ed964e835a2)
 
 We copy the SSH launch connection string 
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/29756efb-ab44-4244-9f0d-4624deef383e)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/ec3b38c0-4841-483d-9c87-e013d0483d52)
 
 We open the command prompt and we paste the connection string taking into account we have to update the actual .pem file path
 
-ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ec2-user@ec2-15-237-57-12.eu-west-3.compute.amazonaws.com
+ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ubuntu@ec2-13-39-163-28.eu-west-3.compute.amazonaws.com
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/648a18d9-5c77-4d35-b6e5-1228cf0b628c)
 
