@@ -70,6 +70,10 @@ We select the instance and we connect to it
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7543452f-7252-4efd-937f-21849493473a)
 
+We navigate to the **SSH tab**
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/9620fef7-330e-4b50-9dd7-7a3a347ff930)
+
 
 ## 2. Open RDP Remote Desktop Port 3389
 
