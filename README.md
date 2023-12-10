@@ -74,6 +74,16 @@ We navigate to the **SSH tab**
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/9620fef7-330e-4b50-9dd7-7a3a347ff930)
 
+We copy the SSH launch connection string 
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/29756efb-ab44-4244-9f0d-4624deef383e)
+
+We open the command prompt and we paste the connection string taking into account we have to update the actual .pem file path
+
+ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ec2-user@ec2-15-237-57-12.eu-west-3.compute.amazonaws.com
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/648a18d9-5c77-4d35-b6e5-1228cf0b628c)
+
 
 ## 2. Open RDP Remote Desktop Port 3389
 
