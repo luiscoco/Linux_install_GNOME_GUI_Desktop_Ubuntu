@@ -142,10 +142,7 @@ Press the connect button
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7905be78-58c9-4600-b4a5-fc5db8acb1dd)
 
-
-
-
-
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/5bce05e6-3c7a-4447-964d-bc38356a4ec7)
 
 
 ## 4. Inside GNOME GUI Desktop
