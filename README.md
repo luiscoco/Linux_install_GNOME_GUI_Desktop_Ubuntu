@@ -84,16 +84,7 @@ ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ec2-user@ec2-15-237-57-1
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/648a18d9-5c77-4d35-b6e5-1228cf0b628c)
 
-
-## 2. Open RDP Remote Desktop Port 3389
-
-
-
-## 3. Connect the VM via SSH
-
-
-
-## 4. Then run the commands
+## 2. Then run these commands in the Linux VM in order to setup the XRDP and GENOME GUI Desktop
 
 ```
 sudo apt-get update
@@ -109,7 +100,7 @@ sudo apt-get install gnome-shell ubuntu-gnome-desktop
 sudo passwd azureuser
 ```
 
-## 5. Connect the VM via "Remote Desktop Connection"
+## 3. Connect the VM via "Remote Desktop Connection"
 
 Set the VM Public IP address 
 
@@ -117,7 +108,7 @@ Set the VM username
 
 Press the connect button
 
-## 6. Inside GNOME GUI Desktop
+## 4. Inside GNOME GUI Desktop
 
 Run these commands:
 
