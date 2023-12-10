@@ -48,6 +48,16 @@ We configure the storage to 30 Gb
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/a4072774-4b7c-4808-88b5-d427143248e0)
 
+We click on Advanced details to request a **Spot Instance**
+
+We set the Spot options
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/9b2a7c94-d44f-47f2-bafe-0b931457b767)
+
+Finally we launch the instance
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/55973196-5fb7-4c83-93c3-0d20e87ae549)
+
 
 ## 2. Open RDP Remote Desktop Port 3389
 
