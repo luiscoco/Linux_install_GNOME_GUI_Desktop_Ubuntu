@@ -1,4 +1,4 @@
-# How to install Linux GNOME GUI Desktop in a virtual machine AWS EC2
+# How to install Linux GNOME GUI Desktop in a virtual machine AWS EC2 with Ubuntu image
 
 https://posintech.com/give-your-linux-desktop-a-clean-look/
 
