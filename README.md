@@ -116,15 +116,37 @@ We set the user ubuntu password for example "Luiscoco123456"
 
 ## 3. Connect the VM via "Remote Desktop Connection"
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7f181e36-ae1e-4487-966f-3277918d96ee)
-
-Set the VM Public IP address 
+Set the VM Public IP address: 13.39.163.28
 
 ![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/db5611dd-bdc3-4992-9b8a-ff5399796f80)
 
 Set the VM username
 
 Press the connect button
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7f181e36-ae1e-4487-966f-3277918d96ee)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/8ab4e0ba-7795-4ccf-8f1e-7a3675a95c0b)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/06f007eb-483a-4bf4-ac33-c9c0a97d9dd7)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/0784c2f3-5b98-4f88-a334-404f12142278)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/f5ba1419-afdf-4980-a8af-4b8ad1f16ffa)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/dc3d6f09-da8f-4675-b194-1904d54ff234)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/646367e9-43ee-4bcb-997a-8874cf6361be)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/cbc2814b-c2de-4685-bdff-f17e230593c2)
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/7905be78-58c9-4600-b4a5-fc5db8acb1dd)
+
+
+
+
+
+
 
 ## 4. Inside GNOME GUI Desktop
 
