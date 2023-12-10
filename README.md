@@ -86,6 +86,8 @@ ssh -i "C:/Users/luisc/.ssh/mynewkeypairforlinuxvn.pem" ec2-user@ec2-15-237-57-1
 
 ## 2. Then run these commands in the Linux VM in order to setup the XRDP and GENOME GUI Desktop
 
+For Ubuntu server VM run these commands
+
 ```
 sudo apt-get update
 
@@ -97,8 +99,10 @@ sudo add-apt-repository ppa:gnome3-team/gnome3
 
 sudo apt-get install gnome-shell ubuntu-gnome-desktop
 
-sudo passwd azureuser
+sudo passwd ubuntu
 ```
+
+We set the user ubuntu password for example "Luiscoco123456"
 
 ## 3. Connect the VM via "Remote Desktop Connection"
 
