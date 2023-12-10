@@ -4,11 +4,33 @@ https://posintech.com/give-your-linux-desktop-a-clean-look/
 
 https://www.youtube.com/watch?v=afpdn636NE0
 
-1. Create an Ubuntu server Linux VM in Azure
+## 1. Create a Virtual Machine (with Ubuntu image) EC2 in AWS.
 
-2. Connect the VM via SSH
+We login in AWS
 
-3. Then run the commands
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/f0469218-f921-4274-8af1-7c83337b6742)
+
+We navigate to EC2 virtual machines
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/31becc07-07cb-4430-ad78-11269a3adb64)
+
+We press the "**Launch Instance**" button
+
+We set the new VM name
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/b1596307-7daa-4ea5-b39c-ba73b5279a44)
+
+
+
+## 2. Open RDP Remote Desktop Port 3389
+
+
+
+## 3. Connect the VM via SSH
+
+
+
+## 4. Then run the commands
 
 ```
 sudo apt-get update
@@ -24,7 +46,7 @@ sudo apt-get install gnome-shell ubuntu-gnome-desktop
 sudo passwd azureuser
 ```
 
-4. Connect the VM via "Remote Desktop Connection"
+## 5. Connect the VM via "Remote Desktop Connection"
 
 Set the VM Public IP address 
 
@@ -32,7 +54,7 @@ Set the VM username
 
 Press the connect button
 
-5. Inside GNOME GUI Desktop
+## 6. Inside GNOME GUI Desktop
 
 Run these commands:
 
