@@ -112,6 +112,8 @@ sudo passwd ubuntu
 
 We set the user ubuntu password for example "Luiscoco123456"
 
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/522bfe39-59bf-4029-b77a-2cbef4172f81)
+
 ## 3. Connect the VM via "Remote Desktop Connection"
 
 Set the VM Public IP address 
