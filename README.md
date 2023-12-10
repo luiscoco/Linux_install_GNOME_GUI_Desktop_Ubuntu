@@ -98,7 +98,15 @@ sudo systemctl enable xrdp
 sudo add-apt-repository ppa:gnome3-team/gnome3
 
 sudo apt-get install gnome-shell ubuntu-gnome-desktop
+```
 
+We selet with the **tab** button the **ok** button and press it with the Enter key
+
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/a9379ce5-b49b-41cc-9a5c-07997e7d621d)
+
+Then set the VM password
+
+```
 sudo passwd ubuntu
 ```
 
