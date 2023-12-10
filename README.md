@@ -24,7 +24,7 @@ We set the new VM name
 
 We select the VM immage
 
-![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/5b35e3d7-27c1-4653-9902-ccf87f67030d)
+![image](https://github.com/luiscoco/Linux_install_GNOME_GUI_Desktop_Ubuntu/assets/32194879/167ad42e-2a82-48ba-b320-4d2c2b2e202b)
 
 We select the VM type
 
